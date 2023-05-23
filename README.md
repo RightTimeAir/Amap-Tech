@@ -20,9 +20,9 @@ You can find the datasets in [Tianchi](https://tianchi.aliyun.com/dataset/144857
 You can represent the outcom through the below tutorial.
 
 1. The whole Pipeline
-   ![pipeline]('./imgs/pipeline.png)
+   ![pipeline](./imgs/pipeline.png)
 2. Feature Extraction
-   ![feature]()
+   ![feature](./imgs/feat.png)
 
 ## The Advantages
 
